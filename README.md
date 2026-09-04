@@ -25,7 +25,7 @@ Most CS teams run on the same shared truth: a spreadsheet. But 20 agents filling
 
 ## Live demo
 
-👉 **[View the live dashboard](#)** *(replace with your GitHub Pages URL once published)*
+👉 https://github.com/krunalpatelcx/Retain-Dashboard-Demo
 
 ## Background
 
